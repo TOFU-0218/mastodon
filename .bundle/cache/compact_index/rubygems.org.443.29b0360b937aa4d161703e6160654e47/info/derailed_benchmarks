@@ -1,0 +1,17 @@
+---
+0.0.0 benchmark-ips:~> 2,get_process_mem:~> 0,memory_profiler:~> 0|checksum:aa941d984fb3f4828f219d5f5ca5a87d691238ae5d13f5c9f7c26387b4a15ae3
+1.0.0 benchmark-ips:~> 2,get_process_mem:~> 0,memory_profiler:~> 0,rack:~> 1,rake:~> 10.4|checksum:33faf084d2e260ee6930dd0716e3a07a129b2c9e83ba9d611edaf78b3d863751
+1.0.1 benchmark-ips:~> 2,get_process_mem:~> 0,memory_profiler:~> 0,rack:~> 1,rake:~> 10|checksum:ff6de114b4c6430fa8333a6a5ddcde3ddd94a37a29466031702f1cbeecffca34
+1.1.0 benchmark-ips:~> 2,get_process_mem:~> 0,memory_profiler:~> 0,rack:~> 1,rake:~> 10,thor:~> 0.19|checksum:454dc99e1edaae186a19dd54ccb0411f02e664b6bccfcc4cf42d2c10697d0d8c
+1.1.1 benchmark-ips:~> 2,get_process_mem:~> 0,heap_inspect:~> 0,memory_profiler:~> 0,rack:~> 1,rake:~> 10,thor:~> 0.19|checksum:a92a55207ad345bf67384fef8c9ec93ec0d4f8147beb60ee783297d75b7f4212
+1.1.2 benchmark-ips:~> 2,get_process_mem:~> 0,heapy:~> 0,memory_profiler:~> 0,rack:~> 1,rake:~> 10,thor:~> 0.19|checksum:6c85af9116e60ec5bb05e1764f471e912874813ba6f619bf2f2274e406df7fb9
+1.1.3 benchmark-ips:~> 2,get_process_mem:~> 0,heapy:~> 0,memory_profiler:~> 0,rack:~> 1,rake:~> 10,thor:~> 0.19|checksum:e6b0a2809502ed3f18301e225d643cc439d590b9e9e47584fa159ecca43fba49
+1.3.0 benchmark-ips:~> 2,get_process_mem:~> 0,heapy:~> 0,memory_profiler:~> 0,rack:>= 1,rake:~> 10,thor:~> 0.19|checksum:d0ddda4d4e0cec1597dc49513739c84839f21c4cfb4a77c5fc2aef14388a3691
+1.3.1 benchmark-ips:~> 2,get_process_mem:~> 0,heapy:~> 0,memory_profiler:~> 0,rack:>= 1,rake:< 12&> 10,thor:~> 0.19|checksum:625cbdd847ca4f79df5e418dd92e02a83adda00f1b3663515a9765f7e7cf2938
+1.3.2 benchmark-ips:~> 2,get_process_mem:~> 0,heapy:~> 0,memory_profiler:~> 0,rack:>= 1,rake:< 13&> 10,thor:~> 0.19|checksum:b36396b2e8e6051ac65a2476b8a200076eed69a4b96b5cc4ed224468db955560,ruby:>= 2.1.0
+1.3.3 benchmark-ips:~> 2,get_process_mem:~> 0,heapy:~> 0,memory_profiler:~> 0,rack:>= 1,rake:< 13&> 10,thor:~> 0.19|checksum:500c1a3c61e253494a2bd609bc795347347410e582f1c1f549623c0c872db67c,ruby:>= 2.1.0
+1.3.4 benchmark-ips:~> 2,get_process_mem:~> 0,heapy:~> 0,memory_profiler:~> 0,rack:>= 1,rake:< 13&> 10,thor:~> 0.19|checksum:ad548bdf489d45301d808c208780abb85a5523fdb53699447dbc1fa07f92c8e6,ruby:>= 2.1.0
+1.3.5 benchmark-ips:~> 2,get_process_mem:~> 0,heapy:~> 0,memory_profiler:~> 0,rack:>= 1,rake:< 13&> 10,thor:~> 0.19|checksum:68d19ba74e5bad8e93cfef5cef30a9b8676d5fd3add67f120c867091c3932db1,ruby:>= 2.1.0
+1.3.6 benchmark-ips:~> 2,get_process_mem:~> 0,heapy:~> 0,memory_profiler:~> 0,rack:>= 1,rake:< 13&> 10,thor:~> 0.19|checksum:319850ba0df81bd4e2919a4e64f72619c4c8903c30f27a9911b1b7deccaf5967,ruby:>= 2.1.0
+1.4.0 benchmark-ips:~> 2,get_process_mem:~> 0,heapy:~> 0,memory_profiler:~> 0,rack:>= 1,rake:< 13&> 10,ruby-statistics:>= 2.1,thor:~> 0.19|checksum:941baf423b4e4106b652b0ca20ec359f6567e9b8170ec535cc40ce08a5896dcc,ruby:>= 2.1.0
+1.4.1 benchmark-ips:~> 2,get_process_mem:~> 0,heapy:~> 0,memory_profiler:~> 0,rack:>= 1,rake:< 14&> 10,ruby-statistics:>= 2.1,thor:~> 0.19|checksum:c6cfa74f0961b3a1641f696431e45a61a3576dce8195b945ff94639cbaa0e3b7,ruby:>= 2.1.0

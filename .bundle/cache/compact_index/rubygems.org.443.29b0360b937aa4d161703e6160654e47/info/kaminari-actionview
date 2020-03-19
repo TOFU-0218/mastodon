@@ -1,0 +1,7 @@
+---
+1.0.0.beta2 actionview:>= 0,kaminari-core:= 1.0.0.beta2|checksum:20bf52410b2386ef3cd3d46b19c2c453907076ec98c10ca408bb199f57d449bc,rubygems:> 1.3.1
+1.0.0.rc1 actionview:>= 0,kaminari-core:= 1.0.0.rc1|checksum:c301208585a3351a7faa506e69eb045ba5ef836deaaaab7da105aaa7b93cc8eb,rubygems:> 1.3.1
+1.0.0 actionview:>= 0,kaminari-core:= 1.0.0|checksum:15d900f76a9356478bc6fbf61f7b71926733b2e43bf75084592fea2b78a4adfa
+1.0.1 actionview:>= 0,kaminari-core:= 1.0.1|checksum:b16de97f5a481a592a665c158d1732e4b9d56698b61feee0619857d84dd51056,ruby:>= 2.0.0
+1.1.0 actionview:>= 0,kaminari-core:= 1.1.0|checksum:f35740ffd0378e5bccba7b8d33cbc7bf9accd199430fc2d16b1078fd6c97cb8f,ruby:>= 2.0.0
+1.1.1 actionview:>= 0,kaminari-core:= 1.1.1|checksum:80189563682ed5a7b3e6ed4fec1ada40afefe9d9f968a0635ecf077fa1e6068d,ruby:>= 2.0.0
